@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Google Room</string>
+    <string name="action_sort_by_name_az">sort by name az</string>
+    <string name="action_sort_by_name_za">sort by name za</string>
+    <string name="action_sort_by_date_az">sort by date az</string>
+    <string name="action_sort_by_date_za">sort by date za</string>
+    <string name="hint_word">Word…</string>
+    <string name="button_save">Save</string>
+    <string name="empty_not_saved">Word not saved because it is empty.</string>
+</resources>
