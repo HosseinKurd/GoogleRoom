@@ -1,4 +1,4 @@
-package com.hosseinkurd.googleroom.presenter;
+package com.hosseinkurd.googleroom.viewmodels;
 
 import android.content.Context;
 import android.support.annotation.NonNull;

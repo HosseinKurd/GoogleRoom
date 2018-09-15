@@ -1,4 +1,4 @@
-package com.hosseinkurd.googleroom.presenter;
+package com.hosseinkurd.googleroom.viewmodels;
 
 import android.arch.lifecycle.LiveData;
 import android.arch.persistence.room.Dao;

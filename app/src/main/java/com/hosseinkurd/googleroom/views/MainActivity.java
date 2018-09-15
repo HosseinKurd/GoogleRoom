@@ -14,8 +14,8 @@ import android.widget.Toast;
 
 import com.hosseinkurd.googleroom.R;
 import com.hosseinkurd.googleroom.model.Word;
-import com.hosseinkurd.googleroom.presenter.WordListAdapter;
-import com.hosseinkurd.googleroom.presenter.WordViewModel;
+import com.hosseinkurd.googleroom.viewmodels.WordListAdapter;
+import com.hosseinkurd.googleroom.viewmodels.WordViewModel;
 
 public class MainActivity extends AppCompatActivity {
 
